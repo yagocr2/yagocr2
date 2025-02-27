@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yago</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<h3 align="center">A Back-End Developer</h3>
 
 - 🌱 I’m currently learning **Python, C, C++, Unity**
 
