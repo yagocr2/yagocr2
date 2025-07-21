@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yago</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Python, C, C++**
+- 🌱 I’m currently learning **GDScript, C++**
 
 - 💬 Ask me about **Java, Springboot, C#, XML, Android**
 
