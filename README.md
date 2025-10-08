@@ -1,7 +1,9 @@
 ![BANNER](banner_y.png)
 <h3 align="center">A Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **GDScript, C++**
+- 🌱 I’m currently learning **GDScript, Python**
+
+- 🛠️ Trying to improve my **SQL** Skills 
 
 - 💬 Ask me about **Java, Springboot, C#, XML, Android**
 
