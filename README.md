@@ -1,4 +1,4 @@
-![BANNER](banner_y.png)
+![BANNER](banner.png)
 <h3 align="center">A Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **GDScript, Python**
